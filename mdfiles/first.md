@@ -4,9 +4,11 @@
 
 On Day-1, We had a formal launch of Pre-Fab Academy Training at STPI-Bhuvaneshwar Campus.
 
+#  Director General,  Dr. Omkar Rai launched the training Programme and delivered  special address through Video  Conference  from HQ Delhi   
+
 ![Director-General](/images/DG-launching-of-prefablab.jpg)
 
-#  Director General,  Dr. Omkar Rai launched the training Programme and delivered  special address through Video  Conference  from HQ Delhi   
+
 
 # Director STPI-Bhuvaneshwar, delivered the  Welcome  address. 
 
