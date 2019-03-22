@@ -26,7 +26,7 @@ Mentors from Fab Academy,  Mr.Francisco  and Mr.Sibu briefed  us  on  the FabLab
 
 STPI officials from  8 Directorates  across  the country attended  the training programme. 
 
-#  [Start  of  PreFab  Lab  Training](/mdfiles/fablab-tour.md)
+#  [Start  of  PreFab  Lab  Training](/mdfiles/fablab-tour.md)   (please click  for more..)
 
 
 
