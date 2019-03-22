@@ -16,12 +16,13 @@ On Day-1, We had a formal launch of Pre-Fab Academy Training at STPI-Bhuvaneshwa
 
 
 
-Director STPI-Bhuvaneshwar briefed us  on how the idea of having PreFab lab at Bhuvaneshwar started  and  how  through the State  Government  support was  able to successfully establish the Fab  Lab.
+Director STPI-Bhuvaneshwar briefed us  on how  the idea of PreFab lab at Bhuvaneshwar started  and the  support  extended by the State  Government  to establish the Fab  Lab successfully. 
 
-Then he requested every participant to understand and work hard to become future mentor. Also he requested 
-everyone to take it forward to every center across the country to set up similar lab in their
+Then Director requested every participant to understand and work hard to become future mentor. Also he requested everyone to take it forward to every center across the country to set up similar lab in their
 centers by taking support from the respective State Government.
-Finally, Director General STPI congratulated the Director for launching the Fablab and  requested everyone to work hard by promoting  this  lab  to  be  utilized   by  academia  and  IT  industries.
+
+Finally, Director General STPI congratulated the Director for launching the Fablab and  instructed every   trainee  to understand the  concept and  work hard  in promoting  Fab  lab to be utilized more  by academia  and  IT  industries.
+
 #  [Start  of  PreFab  Lab  Training](/mdfiles/fablab-tour.md)
 
 STPI officials from  8 Directorates  across  the country attended  the training programme. Two Mentors 
