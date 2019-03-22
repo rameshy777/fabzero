@@ -4,7 +4,9 @@
 
 On Day-1, We had a formal launch of Pre-Fab Academy Training at STPI-Bhuvaneshwar Campus.
 
-![Launch-of-preFab-Lab](/images/launching-of-prefablab.jpg)
+![Director-General](/images/DG-launching-of-prefablab.jpg)
+![Launch-of-preFab-Lab](/images/Director-launching-of-prefablab.jpg)
+
 
 All the participants introduced themselves to others. The mentors gave a brief speech on the sessions.
 Director STPI-Bhuvaneshwar briefed us on how the idea of having PreFab lab at Bhuvaneshwar started.
