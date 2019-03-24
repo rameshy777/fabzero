@@ -24,6 +24,52 @@ If filament is not loading or unloading properly that would be Load or Unload pr
 
 An object is placed either  too close to the bed or not fully attached to the bed. You should check z-offset.   
 
+Assemble 'Stud units', Before you start assembling, access to [settings] menu then to [X,Y,Z] menu and move the bed to proper position for assembly. Move the print bed 100 scales downward in Z direction and 100 scales frontward in Y direction. After placing the bed in proper position, turn off the device and remove the power cable. Please work with caution.
+
+**When removing the Filament Leftover in TUBE**
+1.	While the cartridge is not installed, please go to Setting – Extruder Menu (1) Select “100” ,2) Press the upward arrow * See if the filament comes out * If it does not, please proceed to page 2).  
+2.	Remove Tube from the Nozzle ( 1) remove snap ring 2) press the tube holder and pull the tube to remove tube holder, 3 and 4) Use a tool such as a LONG NOSE PLIER and pull to see if it comes out. If it does not, proceed to the Page 4).
+3.	Remove Tube from the Inner Side (Only try this if the previous steps did not work).
+ 
+
+**Usual warping occurs when the excreted Filament starts to cool down:**
+1.	Operate 3DWOX at a fairly warm temperature (61 ~ 84) 
+    Cold weathers can cause warp in the printed models.  
+2.	Close all the doors while printing.      
+-	Opening top and front doors can affect the printed model    
+3.	In cases where the shape of the 3D Model has a Counter gradient or Bridge shaped bottom, please turn       off the fan. 
+-	In order to change the Fan settings, change the mode to advanced mode.  
+-	Go to Settings - Advanced (2) - Cool - Minimum/Maximum Fan Speed and change the values.   
+-	Default value for PLA is 50% and ABS is 3%.     
+4.	Change the Infill rate of the model.  
+1)	Change to Advanced Model (Mode - Advanced Mode).  
+2)	Change the Infill Rate (Settings - Basic - Fill - Fill Density).   
+-	Default value for PLA is 15% and ABS is 10%.   
+5.	Go through the manual Leveling.      
+6.	For large sized models with large bottom surface, please print with PLA.
+-	ABS has a tendency to contract easily.  
+7.	Please print the model in the middle of the bed.  
+-	Corners of the bed sheet (especially close to the front door) are easily affected by the outside       
+    temperature, causing warp.   
+8.	Use as least time as possible for pausing.  
+-	During the pause, the inner temperature of the 3DWOX decreases, which can affect the warping of the 3D     model.  
+
+**Filament Stuck in the Nozzle**
+Remove the large Debris from the Nozzle through the Extruder mode. (Setting-Extruder)  
+Please be cautious not to harm the harness of the Heater or the Thermistor when removing the Debris.  
+Please be advised that the Heater Harness may be damaged through contact with a metal.  
+The Nozzle is heated to a high temperature during the Extruder mode. Touching the Nozzle will cause Burn.  
+Please ventilate the area when cleaning the Nozzle. (Especially ABS).  
+1.	Execute Extruder mode from the 3DWOX (Setting - Extruder).  
+2.	After the Nozzle is heated to a high temperature (usually above 200?), Open the upper cover of the Nozzle by pushing the green lever.     
+3.	Hold the Nozzle tightly and remove the Filament Debris using a Long Nose Plier. Please be cautious not to harm the harness of the Heater or the Thermistor when removing the Debris. Please be advised that the Heater Harness may be damaged through contact with a metal. The Nozzle is heated to a high temperature during the Extruder mode. Touching the Nozzle will result in Burn.      
+4.	After removing the large parts of the Debris, please follow the instructions below to remove the rest of the Filament Debris.   
+
+
+**Filament is not installed properly:** Check if filament is inserted to the ends of the nozzle. Using the extruder option, move the filament towards the nozzle. Please check if filament is desecrated, If there is no problem, please run nozzle cleaning.    
+
+We loaded the cartridge, but the printer says that the cartridge is not loaded, then unload the cartridge and check if there is any leftover filaments within the printer. Afterwards, try re-installing the cartridge.   
+
 
 
 We had a   look   at 3D printers(Additive). Which is a single material printer. i.e fused filament deposit,uv curable is a stereo lethography polimerisation.
