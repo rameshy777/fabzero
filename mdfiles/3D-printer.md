@@ -2,6 +2,9 @@
 
 ![3D Printer](/images/3D-printer.jpg)
 
+Sindoh Printer is a 3D printer with a high quality based on friendly functions and easy to use for the user, with internal cameras and filament insulation and other advanced features.
+
+
 We had a   look   at 3D printers(Additive). Which is a single material printer. i.e fused filament deposit,uv curable is a stereo lethography polimerisation.
  
  Injective 3D printer-STRATASYS which can support two materials. special nozzle full colour is an   additional feature.
