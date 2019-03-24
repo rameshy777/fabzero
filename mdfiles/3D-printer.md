@@ -12,10 +12,17 @@ The printer communicates with the Apps for Kids server to perform Cloud print.
 
 **Operation and Maintenance:**
 It can print at a speed of 40mm/s or lower is recommended due to a noise, it can go faster to 200mm/s but  that is not recommended.  
-The purpose of the bed lock is to easily reinstall the bed sheet on to the bed. When you are reinstalling   the bed sheet, if the bed lock button is enabled, it will hold the bed so that the bed won't be pushed  back when you slide the bed sheet on to the bed. Aside from this bed lock function, when the print is  completed, the bed is automatically lowered to the bottom and the long screw that is on the bottom of the  bed holds the bed which works the same as the bed lock function so you don't have to worry about pressing  the bed lock button when the print is completed. We will be using the bed lock button when we have to reinstall the bed sheet after we cancel the print or in situations where the bed is not at the bottom of  the printer.  
-Using USB is one of the feature, and we may remove the USB stick when the X- sign disappears on the  screen. The bigger the size, the longer it will take for the X-sign to disappear.  
+
+The purpose of the bed lock is to easily reinstall the bed sheet on to the bed. When you are reinstalling   the bed sheet, if the bed lock button is enabled, it will hold the bed so that the bed won't be pushed  back when you slide the bed sheet on to the bed. Aside from this bed lock function, when the print is  completed, the bed is automatically lowered to the bottom and the long screw that is on the bottom of the  bed holds the bed which works the same as the bed lock function so you don't have to worry about pressing  the bed lock button when the print is completed. We will be using the bed lock button when we have to reinstall the bed sheet after we cancel the print or in situations where the bed is not at the bottom of  the printer. 
+
+Using USB is one of the feature, and we may remove the USB stick when the X- sign disappears on the  screen. The bigger the size, the longer it will take for the X-sign to disappear. 
+
 The printer will notify us on when to clean the case, follow instructions. For the nozzle in times of changing material or changing color of filament, under settings initiate nozzle cleaning.  
 
+**Trouble Shooting:**
+If filament is not loading or unloading properly that would be Load or Unload process was not completed  properly, an error message and instructions will be displayed on the screen. Follow the UI instructions.   
+
+An object is placed either  too close to the bed or not fully attached to the bed. You should check z-offset.   
 
 
 
