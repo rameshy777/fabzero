@@ -9,16 +9,16 @@ Maximum 80 grams equivalent force can be applied.
 The Velocity is 20. It acts like a plotter, we  can   use  it  to draw images and it  can   be   used  as  stencil and for screen printing. If we select fast speed, prints faster, with low quality. If we select normal speed, we print at medium time with normal quality. If we select low speed, we get very good quality print but takes more time to print.
 
 
-File Preparation:
+**File Preparation:**
 vinyl cutter files must contain only vectors.
 The vectors must be lines only, with no fill.
 The vinyl cutter drivers can only interpret cut lines.
 All vectors must be contained within the bounds of the document canvas.
 
-Document Setup:
+**Document Setup:**
 We need to size our page in our drawing program appropriately for the width of vinyl that we are using. Vinyl comes in two widths, 24" and 15".
 
-Document Setup:
+**Document Setup:**
 Step 1: From the "File" menu > select "Document Properties"
 Step 2: Modify the Document Width
 The document properties dialog box will open.
@@ -37,7 +37,7 @@ Step 8: Click the stroke paint tab. Make sure "R" is at the max - "255".
 Step 9: Go to stroke style and make sure width is set to 0.500 pt.
 
 
-Loading Vinyl:
+**Loading Vinyl:**
 Select a roll of vinyl and place it on the rollers behind the machine.
 On the back right of the machine we will see a lever; place it in the "down" position so you can load      the vinyl.
 Make sure the vinyl side is facing up as we feed it through the rollers into the vinyl cutter.
@@ -47,14 +47,16 @@ The left wheel must always be under the wide white sticker on the left.
 The right rubber wheel must be under any one of the three white stickers on the right, depending on        the width of the vinyl.
 Make sure the vinyl is straight and about 2-3 inches past the rubber wheels.
 After inserting the vinyl into the machine, pull up the lever at the back of the machine to ensure that the vinyl is securely loaded.
-Turn On the Vinyl Cutter
+
+**Turn On the Vinyl Cutter**
 On the left side of the vinyl cutter is the power button.
 Turn it on.
 Now we will notice on the screen it says "select roll".
 Press the enter button.
 The vinyl cutter will measure the width of the roll (in mm). Take note of the measurement, we many need to adjust the width of our file depending on the measured width of the vinyl.
 Set the origin by pressing the "Origin" button on the control panel.
-Print to the Vinyl Cutter
+
+**Print to the Vinyl Cutter**
 To print the file, go to File > Print > select the "vinyl cuter" driver from the print menu.
 Hit the "print" button to send the file to the vinyl cutter.
 The vinyl cutter will begin printing once we send the print job.
