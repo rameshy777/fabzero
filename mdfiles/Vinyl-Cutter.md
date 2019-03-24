@@ -19,6 +19,7 @@ All vectors must be contained within the bounds of the document canvas.
 We need to size our page in our drawing program appropriately for the width of vinyl that we are using. Vinyl comes in two widths, 24" and 15".
 
 **Document Setup:**
+
 Step 1: From the "File" menu > select "Document Properties"   
 Step 2: Modify the Document Width     
 The document properties dialog box will open.      
