@@ -27,8 +27,8 @@ An object is placed either  too close to the bed or not fully attached to the be
 Assemble 'Stud units', Before you start assembling, access to [settings] menu then to [X,Y,Z] menu and move the bed to proper position for assembly. Move the print bed 100 scales downward in Z direction and 100 scales frontward in Y direction. After placing the bed in proper position, turn off the device and remove the power cable. Please work with caution.
 
 **When removing the Filament Leftover in TUBE**
-1.	While the cartridge is not installed, please go to Setting – Extruder Menu (1) Select “100” ,2) Press the upward arrow * See if the filament comes out * If it does not, please proceed to page 2).  
-2.	Remove Tube from the Nozzle ( 1) remove snap ring 2) press the tube holder and pull the tube to remove tube holder, 3 and 4) Use a tool such as a LONG NOSE PLIER and pull to see if it comes out. If it does not, proceed to the Page 4).
+1.	While the cartridge is not installed, please go to Setting – Extruder Menu (1) Select “100” ,2) Press the upward arrow *See if the filament comes out*   
+2.	Remove Tube from the Nozzle ( 1) remove snap ring 2) press the tube holder and pull the tube to remove tube holder, 3 and 4) Use a tool such as a LONG NOSE PLIER and pull to see if it comes out. 
 3.	Remove Tube from the Inner Side (Only try this if the previous steps did not work).
  
 
@@ -72,9 +72,6 @@ We loaded the cartridge, but the printer says that the cartridge is not loaded, 
 
 
 
-We had a   look   at 3D printers(Additive). Which is a single material printer. i.e fused filament deposit,uv curable is a stereo lethography polimerisation.
- 
- Injective 3D printer-STRATASYS which can support two materials. special nozzle full colour is an   additional feature.
 
 
 
