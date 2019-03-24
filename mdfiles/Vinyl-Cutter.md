@@ -64,31 +64,35 @@ After the vinyl cutter is done cutting our file, use scissors to cut off the sec
 Weed the Vinyl
 "Weeding" the cut vinyl is the process of removing the unwanted areas from the final cut design.
 
-Gather our Tools
-Transfer Tape
-Scissors
-X-Acto knife
-Tweezers
+**Gather our Tools**
+Transfer Tape, 
+Scissors,
+X-Acto knife,
+Tweezers,
 Trim
+
+
 After cutting, trim area we want to keep with scissors.
 Weed
 
 Then remove the unwanted parts of vinyl with an X-Axcto knife and / or tweezers.
-Transfer to the Desired Surface
+
+
+**Transfer to the Desired Surface**
 Carefully apply transfer tape to the surface of the weeded vinyl. Rub the transfer tape onto the vinyl to form a strong bond between the tape and the top surface of the vinyl design.
 After rubbing, carefully pull the transfer tape (with the vinyl adhering to it) away from the vinyl paper backing.
 After we have removed the vinyl from the paper backing and it is attached to the transfer tape, apply it to the desired surface. Rub the surface of the transfer tape to ensure that the vinyl will adhere to the new surface.
 Carefully pull the transfer tape away from the vinyl, leaving the vinyl attached to the desired surface.
 
 
-Troubleshooting:
+**Troubleshooting:**
 The vinyl pressure must be adequate to cut through the vinyl, but too much force will tear up the paper under the vinyl.
 The thicker the material, the more pressure (force) we need to apply to cut through it.
 However, if we are ripping up the vinyl or paper under the vinyl, our force setting is too high.
 There are two factors that affect our cuts: force and speed.
 
 
-To adjust the force:
+**To adjust the force:**
 Rotate the wheel under the LCD screen on the vinyl cutter to the right.
 When the menu reads "Force", then press the menu buton.
 To reduce / increase the force setting, rotate the wheel up or down, you will see the values change in the LCD screen.
@@ -96,7 +100,7 @@ When finished, press the enter button.
 Next, preform a test cut by pressing the "test" button on the vinyl cutter.
 
 
-To adjust the speed:
+**To adjust the speed:**
 If our file has lots of small curves or tiny details, we may need to slow down the speed. The slower the speed of the machine, the more precisely it will cut.
 1.	Rotate the wheel under the LCD screen on the vinyl cutter to the right until the the menu reads "Speed", then press the menu button.
 2.	To reduce / increase the speed setting, rotate the wheel up or down, we will see the values change in the LCD screen.
