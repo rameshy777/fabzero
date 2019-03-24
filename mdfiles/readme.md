@@ -2,7 +2,7 @@
 
 ![Trainee](/images/ramesh-passport.jpeg)  
 Trainee: Ramesh Yerukula, Joint Dirctor  STPI-Coimbatore   
-Qualification: BTech (CSE) Mtech (AI)
+Qualification: BTech(CSE) Mtech(AI)
 Experience:  5 Yrs Teaching  & 12+ years in STPI  
 
 
