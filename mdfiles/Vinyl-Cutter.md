@@ -19,22 +19,22 @@ All vectors must be contained within the bounds of the document canvas.
 We need to size our page in our drawing program appropriately for the width of vinyl that we are using. Vinyl comes in two widths, 24" and 15".
 
 **Document Setup:**
-Step 1: From the "File" menu > select "Document Properties"
-Step 2: Modify the Document Width
-The document properties dialog box will open.
-Set the units to inches.
-Set the document width the vinyl width (22" or 13").
-Step 3: Modify the Document Height
-Vinyl is on a roll - so the max height could be as long as the length of vinyl on the rolll.
-Set the document height to a minimum of 24" (if using wide vinyl) or to a larger value that whatever value works for our drawing.
-Make sure you hit the key after each entry to ensure Inkscape registers your changes.
-Step 4: Create a Vector Drawing
-Step 5: Select the Vector
-Step 6: Then click "Object" menu > Fill and Stroke.
-The fill and stroke panel will appear to on the right of the screen.
-Step 7: Make sure there is no fill by clicking on the "X" button in the "Fill" menu.
-Step 8: Click the stroke paint tab. Make sure "R" is at the max - "255".
-Step 9: Go to stroke style and make sure width is set to 0.500 pt.
+Step 1: From the "File" menu > select "Document Properties"   
+Step 2: Modify the Document Width     
+The document properties dialog box will open.      
+Set the units to inches.       
+Set the document width the vinyl width (22" or 13").      
+Step 3: Modify the Document Height         
+Vinyl is on a roll - so the max height could be as long as the length of vinyl on the roll.     
+Set the document height to a minimum of 24" (if using wide vinyl) or to a larger value that whatever value works for our drawing.        
+Make sure you hit the key after each entry to ensure Inkscape registers your changes.      
+Step 4: Create a Vector Drawing        
+Step 5: Select the Vector           
+Step 6: Then click "Object" menu > Fill and Stroke.     
+The fill and stroke panel will appear to on the right of the screen.        
+Step 7: Make sure there is no fill by clicking on the "X" button in the "Fill" menu.      
+Step 8: Click the stroke paint tab. Make sure "R" is at the max - "255".       
+Step 9: Go to stroke style and make sure width is set to 0.500 pt.      
 
 
 **Loading Vinyl:**
