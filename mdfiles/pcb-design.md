@@ -10,10 +10,12 @@ Then, Use **NO Connection** flag for unused pins/connections.
 After completion of circuit, Annotate schematic symbols for un-named components.   
 Then, perform electrical rules, and clear all the errors if any.     
 Assign PCB footprints to schematic symbols as per the fablab availability and generate net list.  
-Run PCBnew to layout pcb. Now schematic circuit convert to PCB layout.   
+Run PCBnew to layout pcb. Now schematic circuit convert to PCB layout.
+![PCB Design](/images/AssignQ1.png)
+
 PCBnew circuit opened in new window for creating layout. Align the components within the layout.  
 Replace connecting white lines by route tracks.  
-
+![PCB Design](/images/AssignA1.jpeg)
 
 
 Use add graphics line button for drawing the edge cut layer (i.e outer yellow line)   
@@ -23,11 +25,11 @@ Open the .png files in fabmodules.org and select the .png file in input. In the 
 Under output, select machine as SRM 20 and fix 0 for X,Y and Z.Remains all default. Now press calculate and save the files as .rml format. Repeat the process for cut file and invert     
 
  
-![PCB Design](/images/AssignQ1.png)
 
 
 
-![PCB Design](/images/AssignA1.jpeg)
+
+
 
 
 
