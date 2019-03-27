@@ -1,3 +1,3 @@
 
-# [Fab  Lab Tour](/mdfiles/Fab-Lab.md)  ***(please click for more..)***
+# [Fab  Lab Tour](/mdfiles/Fab-Lab.md)     ***(Please click above for more details)***
 ![Fab-Lab](/images//FabLab-Tour.jpg)
