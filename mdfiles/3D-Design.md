@@ -1,6 +1,6 @@
 # 3D  Design
 
-*Scope of work:* To design a 3D model for holding the Micromiller bits
+# *Scope of work:* To design a 3D model for holding the Micromiller bits
 The Diameter of the Micromiller bit is 3mm and height is 30mm
 
 # 3D Design Model:
