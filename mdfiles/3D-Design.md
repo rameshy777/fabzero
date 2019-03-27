@@ -25,7 +25,7 @@ apply boolean operation difference on Cut1 and cylinder2
 
 ![bit holder 3D print](/images/bit-holder-3d.jpg)
 
-The file will be saved in .FCStd format.
+The file will be saved in .FCStd format. Export to .stl format.   
 
 Now open the file using 3DXWOX
 
