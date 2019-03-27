@@ -22,26 +22,14 @@ Use add graphics line button for drawing the edge cut layer (i.e outer yellow li
 Then, select the plot format as svg and tick the check box of Exclude pads from silkscreen,           negative plot    and zones fills before plotting. Rest of things unchecked.    
 Now, 2 nos of .svg format files created and it'll open through inkscape. Select the files and set dpi as   2000 and export as .png format.     
 Open the .png files in fabmodules.org and select the .png file in input. In the output format choose .rml  format. And in the process, select PCB trace(1/64) for pcb trace and PCB cut(1/32) for cut file.      
-Under output, select machine as SRM 20 and fix 0 for X,Y and Z.Remains all default. Now press calculate    and save the files as .rml format. Repeat the process for cut file and invert    
-
+Under output, select machine as SRM 20 and fix 0 for X,Y and Z.Remains all default. Now press calculate    and save the files as .rml format. Repeat the process for cut file and invert.  
+    
 ![PCB Design](/images/pcb-design.jpeg)
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![PCB Design](/images/microcontroller-pcb.jpg)
+
+Mount  the  pcb  board  onto the Micro-Miller for  printing the circuit  
+on  the  board. Then  cut  the PCB  board.   
 
 
 
