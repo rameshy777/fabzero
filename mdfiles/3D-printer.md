@@ -12,10 +12,11 @@ The printer communicates with the Apps for Kids server to perform Cloud print.
 
 **3D Printing**
 
-Let us download a 3D model of 1.75mm from the site: thingiverse.com  
-I have downloaded a 3D comb with extension .stl
-Open the .stl file through the 3DWOX. export the file and save as .gcode format. 
-Now the saved .gcode file may be mounted to the 3D printer and start print. 
+Let us download a 3D model of 1.75mm from the site: thingiverse.com        
+I have downloaded a 3D comb with extension .stl             
+Open the .stl file through the 3DWOX.       
+ Export the file and save as .gcode format.       
+Now the saved .gcode file may be mounted onn the 3D printer and start the print.     
 Approximately 38.3 minutes was taken to print the 3D Comb. 
 
 ![Comb 3D Print](/images/3d-print-comb.jpeg)
