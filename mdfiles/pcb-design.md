@@ -39,6 +39,8 @@ Under output, select machine as SRM 20 and fix 0 for X,Y and Z.Remains all defau
 
 ![PCB Design](/images/pcb-design.jpeg)
 
+![PCB Design](/images/microcontroller-pcb.jpg)
+
 
 
 
