@@ -29,7 +29,7 @@ The file will be saved in .FCStd format.
 
 Now open the file using 3DXWOX
 
-Save the file with extesion .gcode. Export to mediadrive.
+Save the file with extension .gcode, Export to media drive.
 
 Go to the 3D printer, mount the drive and print.
 
