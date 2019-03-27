@@ -1,10 +1,9 @@
 # 3D  Design
-
-# *Scope of work:* 
+## *Scope of work:* 
 To design a 3D model for holding the Micromiller bits
 The Diameter of the Micromiller bit is 3mm and height is 30mm
 
-# *3D Design Model:*
+## *3D Design Model:*
 A small block ( Length: 16mm; Width: 30mm; Height:25mm) containing 3 cylindrical cut of radius 1.8mm and height 25mm that can properly accommodate 3 Micromiller bits
 
 ![bit holder](/images/bit-holder.jpg)
