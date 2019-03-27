@@ -1,6 +1,5 @@
 # PREFAB LAB -TRAINING 
 (from 18th March to 5th April 2019 @ STPI-BHUBANESHWAR )
-## Day-1 (Date: 18.03.2019)
 
 On Day-1, We had a formal launch of Pre-Fab Academy Training at STPI-Bhuvaneshwar Campus.
 
