@@ -1,4 +1,4 @@
-#  PCB  Design  Process
+#  PCB  Design  Process:
 The software used for designing the PCB circuit design is KiCad.      
 Open KiCad and load new project      
 Select schematic layout EeSchema will be open.      
