@@ -1,6 +1,6 @@
 # Milling Machine 
 
-![Milling Machine](/images/Milling-machine.jpg)
+![Milling Machine](/images/Milling-machine.jpeg)
 
 It is a Computer Numerical Control(CNC) Milling tool.
 It is a  3  axis cutter and used for  2D & 3D cutting. The resolution is one 10th of a millimeter.
