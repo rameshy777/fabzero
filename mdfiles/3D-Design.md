@@ -5,7 +5,7 @@ The Diameter of the Micromiller bit is 3mm and height is 30mm
 3D Design:
 A small block ( Length: 16mm; Width: 30mm; Height:25mm) containg 3 cylindrical cut of radius 1.8mm and height 25mm that can properly accommodate 3 Micromiller bits
 
-![Micromiller  bit  holder](/images/bit-holder.jpeg)
+![Micromiller  bit  holder](/images/bit-holder.jpg)
 
 Open new file in Free cad and draw cube and cylinder as per the given below dimensions:
 Cube: l=16mm; w=30mm; height=25mm;
