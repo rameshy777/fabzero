@@ -25,5 +25,13 @@ apply boolean operation difference on Cut1 and cylinder2
 
 ![bit holder 3D print](/images/bit-holder-3d.jpg)
 
+The file will be saved in .FCStd format.
+
+Now open the file using 3DXWOX
+
+Save the file with extesion .gcode. Export to mediadrive.
+
+Go to the 3D printer, mount the drive and print.
+
 [Back](/mdfiles/Fab-Lab.md)  ***(Please click  Back to go to Fab-lab)***
 
