@@ -20,13 +20,13 @@ This machine is similar to Micromiller. We have to be very careful while using t
 There are two emergency stop buttons one is fixed in the machine and the other is handheld.
 MDF, Wood can be used to cut the 2D & 3D designs.
 
-***Safety Measures***  
+***Safety Measures:***  
 Safety glasses    
 Face Mask   
 Head phones   
 Gloves     
 Shoes     
-Dustbag should be emptied when ever partially filled.     
+Dust bag should be emptied when ever partially filled.     
 Keep this room away from other labs and clean areas.   
 Milling machine is very fast. So always be alert.    
 Pause button may be used during interruption.    
