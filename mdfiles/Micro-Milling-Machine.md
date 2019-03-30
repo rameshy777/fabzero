@@ -30,6 +30,7 @@ The SRM-20’s VPanel controller provides a simple interface for adjusting tool 
 moving the cursor to set the milling starting point. The VPanel also allows easy control 
 of feed rate and spindle speed with pause and resume operation, plus tracking of X,Y,Z axis
 milling with a numeric readout in millimeters or inches.    
+
 ![Micro Milling](/images/v-panel-micro-milling.jpg)
 
 
