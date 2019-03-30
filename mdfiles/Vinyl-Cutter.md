@@ -1,3 +1,6 @@
+
+#### Click [Next](/mdfiles/Milling-Machine.md)
+
 # Vinyl-Cutter
 ![Vinyl-Cutter](/images/roland-vinyl-cutter.jpeg)
 
@@ -113,6 +116,6 @@ If our file has lots of small curves or tiny details, we may need to slow down t
 
 
 
-
-[Back](/mdfiles/Fab-Lab.md)  ***(Please click  Back to go to Fab-lab)***
+#### Click [Back](/mdfiles/Fab-Lab.md)
+#### Click [Next](/mdfiles/Milling-Machine.md)
 
