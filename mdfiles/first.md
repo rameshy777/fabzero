@@ -10,7 +10,7 @@
 
 
 
-## Director STPI-Bhuvaneshwar, delivered the  Welcome  address. 
+## Director STPI-Bhubaneshwar, delivered the  Welcome  address. 
 
 ![Director-Launch-of-preFab-Lab](/images/Director-launching-of-prefablab.jpg)
 
@@ -27,7 +27,8 @@ Mentors from Fab Academy,  Mr.Francisco  and Mr.Sibu briefed  us  on  the FabLab
 STPI officials from  8 Directorates  across  the country attended  the training programme. 
 
 #  [Start  of  PreFab  Lab  Training](/mdfiles/fablab-tour.md)  
-***(Please click above for more details)***
+
+#### Click [Next](/mdfiles/fablab-tour.md)
 
 
 
