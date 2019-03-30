@@ -1,6 +1,6 @@
-# [PreFab Lab Training- ***Inaugural Ceremony***](/mdfiles/fablab-tour.md)   
+                   # [PreFab Lab Training- ***Inaugural Ceremony***](/mdfiles/fablab-tour.md)   
 
-                                            -@ STPI-Bhubaneshwar
+                                            ##-@ STPI-Bhubaneshwar
 ## STPI Director General,  Dr. Omkar Rai formally  launched the training Programme and delivered  special address through Video  Conference  from HQ Delhi   
 
 ![Director-General](/images/DG-launching-of-prefablab.jpg)
