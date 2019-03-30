@@ -51,8 +51,3 @@ Always have an assistant while working in the room.
 
 
 
-
-[ Back](/mdfiles/Fab-Lab.md)  ***(Please click  Back to go to Fab-lab)***
-
-
-Click
