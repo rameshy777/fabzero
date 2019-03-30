@@ -2,7 +2,6 @@
 
 
 # Milling Machine 
-
 ![Milling Machine](/images/Milling-machine.jpeg)     
 
 It is a Computer Numerical Control(CNC) Milling tool.
