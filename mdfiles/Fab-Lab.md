@@ -17,8 +17,9 @@
 
 ##   [PCB Design](/mdfiles/pcb-design.md)   ****(Please click  for  more..)****
 
+##   [Project Demonstration](/mdfiles/Project-Demo.md)   ***(Please click  for  more..)***
+
+
 
 #### Click [Back](/mdfiles/fablab-tour.md)
 #### Click [Next](/mdfiles/Vinyl-Cutter.md)
-
-##   [Project Demonstration](/mdfiles/Project-Demo.md)   ***(Please click  for  more..)***
