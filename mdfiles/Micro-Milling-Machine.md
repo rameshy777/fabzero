@@ -15,7 +15,7 @@ If power goes off then it is almost like loss of work for beginners.
 The SRM-20 portable milling machine can mill a broad range of materials,   
 including modeling wax, chemical wood, foam, acrylic, poly acetate, ABS and PC board. 
 
-***The following items are just some of the prototypes and applications made possible:***
+***The following items are some of the prototypes and applications made possible:***
 Product inventions 
 Wax molds for casting 
 Tools and machinery 
@@ -32,6 +32,14 @@ of feed rate and spindle speed with pause and resume operation, plus tracking of
 milling with a numeric readout in millimeters or inches.    
 
 ![Micro Milling](/images/v-panel-micro-milling.jpg)
+
+***Independent Collect System for Efficient Milling***
+It’s no longer necessary to change spindles every time there’s a different end mill shank diameter.    
+Now we can replace the collect chuck in order to match the shank diameter for fast setting of the Z-axis base point and for quick tool changes.
+
+![Micro Milling](/images/mc-header.jpeg)
+
+
 
 
 
