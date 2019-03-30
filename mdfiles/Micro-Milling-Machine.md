@@ -37,18 +37,15 @@ milling with a numeric readout in millimeters or inches.
 It’s no longer necessary to change spindles every time there’s a different end mill shank diameter.    
 Now we can replace the collect chuck in order to match the shank diameter for fast setting of the Z-axis base point and for quick tool changes.
 
-![Micro Milling](/images/mc-header.jpeg)
+![Micro Milling](/images/mc-header.jpeg)    
 
+***The Clean Machine:***
+The SRM-20 has a fully-enclosed cabinet that reduces dust and noise and features a side-window for easy progress viewing. It also features an intelligent safety interlock to that automatically pauses the machine when the cover is opened, permitting milling to resume upon closing the cover and selecting “continue”.
 
+***Smart Yet Rugged:***
+The SRM-20 includes the very latest CNC milling features such as airtight sealing technology to prevent waste material from getting inside the spindle and Y-axis, making it resistant to the effects of milling debris and adding durability for long-term operation.
 
-
-
-
-
-
-
-
-
+![Micro Milling](/images/pcb-design2.jpeg) 
 
 
 
@@ -57,4 +54,3 @@ Now we can replace the collect chuck in order to match the shank diameter for fa
 
 
 
-[Back](/mdfiles/Fab-Lab.md)  ***(Please click  Back to go to Fab-lab)***
