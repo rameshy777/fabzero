@@ -61,12 +61,14 @@ The vinyl cutter will measure the width of the roll (in mm). Take note of the me
 Set the origin by pressing the "Origin" button on the control panel.
 
 **Print to the Vinyl Cutter**
-To print the file, go to File > Print > select the "vinyl cuter" driver from the print menu.
+To print the file, go to File > Print > select the "vinyl cutter" driver from the print menu.
 Hit the "print" button to send the file to the vinyl cutter.
 The vinyl cutter will begin printing once we send the print job.
 After the vinyl cutter is done cutting our file, use scissors to cut off the section with our cut design.
 Weed the Vinyl
 "Weeding" the cut vinyl is the process of removing the unwanted areas from the final cut design.
+
+![Vinyl-print](/images/vinyl2.jpeg)
 
 **Gather our Tools**
 Transfer Tape, 
@@ -88,6 +90,7 @@ After rubbing, carefully pull the transfer tape (with the vinyl adhering to it) 
 After we have removed the vinyl from the paper backing and it is attached to the transfer tape, apply it to the desired surface. Rub the surface of the transfer tape to ensure that the vinyl will adhere to the new surface.
 Carefully pull the transfer tape away from the vinyl, leaving the vinyl attached to the desired surface.
 
+![Vinyl-print2](/images/vinyl1.jpeg)
 
 **Troubleshooting:**
 The vinyl pressure must be adequate to cut through the vinyl, but too much force will tear up the paper under the vinyl.
