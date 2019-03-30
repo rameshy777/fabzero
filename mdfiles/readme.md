@@ -1,4 +1,4 @@
-# [Welcome to Pre FabLab Training  Programme](/mdfiles/first.md) 
+# [Welcome to PreFab Lab Training  Programme](/mdfiles/first.md) 
 ***(Please click above for more details)***
 
 ![Trainee](/images/ramesh-passport.jpeg)    
