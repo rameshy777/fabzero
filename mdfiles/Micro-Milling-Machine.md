@@ -33,7 +33,7 @@ milling with a numeric readout in millimeters or inches.
 
 ![Micro Milling](/images/v-panel-micro-milling.jpg)
 
-***Independent Collect System for Efficient Milling***
+***Independent Collect System for Efficient Milling:***     
 It’s no longer necessary to change spindles every time there’s a different end mill shank diameter.    
 Now we can replace the collect chuck in order to match the shank diameter for fast setting of the Z-axis base point and for quick tool changes.
 
