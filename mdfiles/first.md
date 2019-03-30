@@ -1,3 +1,6 @@
+#### Click [Next](/mdfiles/fablab-tour.md)
+
+
 # [PreFab Lab Training- ***Inaugural Ceremony***   @ STPI-Bhubaneshwar](/mdfiles/fablab-tour.md)   
 
                                             
