@@ -3,7 +3,7 @@
 
 #                    Fab-Lab   
 
-##   [Vinyl  Cutter](/mdfiles/Vinyl-Cutter.md)  ***(Please click  for  more..)***
+##   [Vinyl  Cutter](/mdfiles/Vinyl-Cutter.md)  ****(Please click  for  more..)****
 
 ##   [Milling Machine](/mdfiles/Milling-Machine.md)    ***(Please click  for  more..)***
 
