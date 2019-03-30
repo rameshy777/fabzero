@@ -44,8 +44,7 @@ The SRM-20 has a fully-enclosed cabinet that reduces dust and noise and features
 
 ***Smart Yet Rugged:***
 The SRM-20 includes the very latest CNC milling features such as airtight sealing technology to prevent waste material from getting inside the spindle and Y-axis, making it resistant to the effects of milling debris and adding durability for long-term operation.
-
-![Micro Milling](/images/pcb-design2.jpeg) 
+ 
 
 
 
