@@ -31,7 +31,7 @@ Keep this room away from other labs and clean areas.
 Milling machine is very fast. So always be alert.    
 Pause button may be used during interruption.    
 Ensure for Fire extinguishers 
-No hanging id cards, mobile phones inside  this room
+No hanging id cards, mobile phones inside  this room      
 Always have an assistant while working in the room.
 
 
