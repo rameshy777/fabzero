@@ -1,9 +1,6 @@
-# PREFAB LAB -TRAINING 
-(from 18th March to 5th April 2019 @ STPI-BHUBANESHWAR )
+# PREFAB LAB TRAINING- ***Inaugural Ceremony***
 
-On Day-1, We had a formal launch of Pre-Fab Academy Training at STPI-Bhuvaneshwar Campus.
-
-#  Director General,  Dr. Omkar Rai launched the training Programme and delivered  special address through Video  Conference  from HQ Delhi   
+# STPI Director General,  Dr. Omkar Rai formally  launched the training Programme and delivered  special address through Video  Conference  from HQ Delhi   
 
 ![Director-General](/images/DG-launching-of-prefablab.jpg)
 
