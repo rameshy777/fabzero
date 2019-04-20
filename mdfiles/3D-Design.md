@@ -17,6 +17,7 @@ Placement: x=8; y=15; z=5;
 Cylinder3: r=1.8mm; height=30mm
 Placement: x=8; y=25; z=5;
 
+![bit holder 3D design](/images/3ddesign2.jpg)
 Now, apply boolean operation -> Difference on Cube and cylinder
 apply boolean operation Difference -> on Cut0 and cylinder1
 apply boolean operation -> Difference on Cut1 and cylinder2
@@ -24,6 +25,7 @@ apply boolean operation -> Difference on Cut1 and cylinder2
 # *Output:* #
 
 ![bit holder 3D design](/images/3ddesign1.jpg)
+
 
 The file will be saved in .FCStd format. Export to .stl format.   
 
