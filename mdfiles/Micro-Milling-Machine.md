@@ -42,6 +42,8 @@ Now we can replace the collect chuck in order to match the shank diameter for fa
 ***The Clean Machine:***
 The SRM-20 has a fully-enclosed cabinet that reduces dust and noise and features a side-window for easy progress viewing. It also features an intelligent safety interlock to that automatically pauses the machine when the cover is opened, permitting milling to resume upon closing the cover and selecting “continue”.
 
+![Micro Milling](/images/micromiller-video.mp4)
+
 ***Smart Yet Rugged:***
 The SRM-20 includes the very latest CNC milling features such as airtight sealing technology to prevent waste material from getting inside the spindle and Y-axis, making it resistant to the effects of milling debris and adding durability for long-term operation.
  
