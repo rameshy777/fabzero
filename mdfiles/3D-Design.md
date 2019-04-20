@@ -23,7 +23,7 @@ apply boolean operation -> Difference on Cut1 and cylinder2
 
 # *Output:* #
 
-![bit holder 3D print](/images/bit-holder-3d.jpg)
+![bit holder 3D design](/images/3ddesign1.jpg)
 
 The file will be saved in .FCStd format. Export to .stl format.   
 
