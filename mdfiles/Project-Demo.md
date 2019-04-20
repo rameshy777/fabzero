@@ -1,7 +1,7 @@
 
 
 #  Project   Demonstration  
-##  Title: iBell   
+   
 ![Project Slide](/images/projectslide.png)
 
 
