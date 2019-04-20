@@ -1,3 +1,7 @@
+
+
+#### Click [Next](/mdfiles/pcb-design.md)
+
 # 3D  Design
 ## *Scope of work:* 
 To design a 3D model for holding the Micromiller bits
@@ -46,5 +50,7 @@ Save the file with extension .gcode, Export to media drive.
 
 Go to the 3D printer, mount the drive and print.
 
-[Back](/mdfiles/Fab-Lab.md)  ***(Please click  Back to go to Fab-lab)***
+[Back](/mdfiles/3D-printer.md) 
+
+#### Click [Next](/mdfiles/pcb-design.md)
 
