@@ -42,6 +42,8 @@ Markdown,  Git, KiCad,  Visual Studio Code,  Freecad,  Inscape,  gimp,  Cura,  3
 The Schematic  diagram, Circuit design  and cutting  is done  using the micromiller.
 ![Project Slide](/images/buzzer-schematic.png)
 
+![Project Slide](/images/buzzer-schema-3d.png)
+
 ### Implementation:  
 
 Now, the components are soldered as  per the PCB  design  on  the  circuit board.
