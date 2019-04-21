@@ -39,7 +39,10 @@ Markdown,  Git, KiCad,  Visual Studio Code,  Freecad,  Inscape,  gimp,  Cura,  3
 
 ### PCB Design: 
 
-The  Circuit design, Schematic  diagram  and cutting  is done  using the micromiller.     
+The  Circuit design, Schematic  diagram  and cutting  is done  using the micromiller.  
+
+#### PCB  board after soldering:    
+![Project Slide](/images/pcbb-bboard.jpeg) 
 
 #### Buzzer Circuit Design:    
 ![Project Slide](/images/buzzer-circuit-diag.png)   
