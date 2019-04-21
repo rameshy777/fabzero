@@ -94,8 +94,8 @@ iBELL 3d printed  outer moulding
 ![iBELL Casing ](/images/iBELL-casing.jpg)
 
 
-### Final Output/Result:   
-
+### Final Output/Result:     
+The Basic iBELL model is working fine. When we press the switch, light glows and speaker blows sound.
 
 ### Future Enhancement:  
 
