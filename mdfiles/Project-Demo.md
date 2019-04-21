@@ -95,7 +95,11 @@ iBELL 3d printed  outer moulding
 
 
 ### Final Output/Result:     
-The Basic iBELL model is working fine. When we press the switch, light glows and speaker blows sound.
+The Basic iBELL model is working fine. When we press the switch, light glows and speaker blows sound.  
+Below given is the project video. Please click to download.
+
+![click to download the Project video](/images/project-video.mp4)
+
 
 ### Future Enhancement:  
 
@@ -105,7 +109,7 @@ The Basic iBELL model is working fine. When we press the switch, light glows and
 
 
 
-![click to download the Project video](/images/project-video.mp4)
+
 #### Click [Back](/mdfiles/pcb-design.md)
 #### Click [Fablab-Menu](/mdfiles/Fab-Lab.md)
 #### Click [Next](/mdfiles/Thankyou.md)
