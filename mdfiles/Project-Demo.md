@@ -24,6 +24,18 @@ Whenever anybody misuses or  tries to fool, it goes to "freezing mode"  and gets
 ie, If you press the buzzer and hold for more time,  immediately without causing nuisance to the owner.  It automatically goes  to "Freeze Mode". Also,  if anybody repeatedly presses the buzzer  it enters to "Freeze Mode". Like this,  several cases of events  are worked out  and  programed to behave  intelligently.
 
 
+### Electronic Components   used:  
+Resistors---500 ohm --2nos.  
+Resistors---10 ohm  --2nos.  
+LED---------2nos.. Green, Blue  
+Microcontroller--ATtiny 44  --1 no.  
+Capacitor--------1Micro Farad --1no.  
+Switch Button--1no.  
+ISP header-----1no.  
+Speaker/Buzzer---------1no.  
+Registor--50ohm--2nos.  
+Mosfet----------1no.  
+
 ![Project video](/images/project-video.mp4)
 #### Click [Back](/mdfiles/pcb-design.md)
 #### Click [Fablab-Menu](/mdfiles/Fab-Lab.md)
