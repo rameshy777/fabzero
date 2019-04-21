@@ -40,6 +40,7 @@ Markdown,  Git, KiCad,  Visual Studio Code,  Freecad,  Inscape,  gimp,  Cura,  3
 ### PCB Design: 
 
 The Schematic  diagram, Circuit design  and cutting  is done  using the micromiller.
+![Project Slide](/images/buzzer-schematic.png)
 
 ### Implementation:  
 
@@ -47,7 +48,7 @@ Now, the components are soldered as  per the PCB  design  on  the  circuit board
 We have arrived  at  two  circuit boards, one  is  the micro controller circuit,  the  other  is the  MOSFET  connected  to the  speaker.  We have also used additional 2 nos.of 50ohm  resistors connected in parallel to suppress the  generated heat. Oscilloscope  was used to check the  working functionality of the speaker.     
 
 ### Coding:  
-AVR  program  was written as per our  requirement. Through the programmer, using arduino, we have compiled and successfully loaded the AVR code in to the micro controller to work intelligently as  per  our requirements.
+AVR  program  was written as per our  requirement. Through the programmer, using Arduino, we have compiled and successfully loaded the AVR code in to the micro controller to work intelligently as  per  our requirements.
 
 ### Testing:    
 Moulding: 3d designed  case, 3d printing,   heating glue gun,     Vinyl  sticker. 
