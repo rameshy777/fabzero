@@ -51,7 +51,8 @@ The  Circuit design, Schematic  diagram  and cutting  is done  using the micromi
 #### Buzzer Circuit 3d-Design:        
 ![Project Slide](/images/buzzer-schema-3d.png) 
 #### iBELL Trace, cut:      
-![Project Slide](/images/trace-cut.jpg)  
+![Project Slide](/images/trace-cut.jpg) 
+ ![Project Slide](/images/tr-cu.jpg) 
 ![Project Slide](/images/buzzer_trace.png)
 
 ### Implementation:  
