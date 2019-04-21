@@ -83,8 +83,11 @@ AVR  program  was written as per our  requirement. Through the programmer, using
 ### Testing:  
 The basic model of iBELL is  checked and working fine. 
 
-### Moulding:   
+### Moulding/Casing:   
 3d designed  case, 3d printing,   heating glue gun,     Vinyl  sticker. 
+
+![iBELL Casing ](/images/iBELL-casing.jpg)
+
 
 ### Final Output/Result:   
 
