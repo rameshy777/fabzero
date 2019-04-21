@@ -43,7 +43,7 @@ The  Circuit design, Schematic  diagram,  extraction  of  trace  and  cut   file
 ![Project Slide](/images/iBell-circuit-diag.jpg)   
 #### iBELL Schematic Diagram:     
 ![Project Slide](/images/iBell-schematic-layout.jpg) 
-#### Buzzer Circuit 3d-Design:        
+#### MOSFET Circuit 3d-View:        
 ![Project Slide](/images/buzzer-schema-3d.png) 
 #### iBELL Trace, cut:      
 
