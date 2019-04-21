@@ -105,7 +105,7 @@ The Basic iBELL model is working fine. When we press the switch, light glows and
 
 
 
-![Project video](/images/project-video.mp4)
+![click to download the Project video](/images/project-video.mp4)
 #### Click [Back](/mdfiles/pcb-design.md)
 #### Click [Fablab-Menu](/mdfiles/Fab-Lab.md)
 #### Click [Next](/mdfiles/Thankyou.md)
