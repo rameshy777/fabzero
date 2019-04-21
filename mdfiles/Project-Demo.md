@@ -51,14 +51,19 @@ The  Circuit design, Schematic  diagram  and cutting  is done  using the micromi
 #### Buzzer Circuit 3d-Design:        
 ![Project Slide](/images/buzzer-schema-3d.png) 
 #### iBELL Trace, cut:      
+
+![Project Slide](/images/tr-cu.jpg) 
+
 ![Project Slide](/images/trace-cut.jpg) 
- ![Project Slide](/images/tr-cu.jpg) 
 ![Project Slide](/images/buzzer_trace.png)
 
 ### Implementation:  
 
 Now, the components are soldered as  per the PCB  design  on  the  circuit board.
-We have arrived  at  two  circuit boards, one  is  the micro controller circuit,  the  other  is the  MOSFET  connected  to the  speaker.  We have also used additional 2 nos.of 50ohm  resistors connected in parallel to suppress the  generated heat. Oscilloscope  was used to check the  working functionality of the speaker.     
+We have arrived  at  two  circuit boards, one  is  the micro controller circuit,  the  other  is the  MOSFET  connected  to the  speaker.  We have also used additional 2 nos.of 50ohm  resistors connected in parallel to suppress the  generated heat. Oscilloscope  was used to check the  working functionality of the speaker.
+![iBell-miller](/images/mc-header.jpeg)  
+
+![iBell-PCB](/images/pcb-ibell.png)
 
 ### Coding:  
 AVR  program  was written as per our  requirement. Through the programmer, using Arduino, we have compiled and successfully loaded the AVR code in to the micro controller to work intelligently as  per  our requirements.
