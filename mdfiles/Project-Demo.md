@@ -47,6 +47,8 @@ The  Circuit design, Schematic  diagram  and cutting  is done  using the micromi
 ![Project Slide](/images/buzzer-schematic.png) 
 #### Buzzer Circuit 3d-Design:        
 ![Project Slide](/images/buzzer-schema-3d.png) 
+#### Buzzer Trace:        
+![Project Slide](/images/buzzer_trace.png)
 
 ### Implementation:  
 
