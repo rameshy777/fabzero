@@ -85,17 +85,21 @@ The basic model of iBELL is  tested and is working fine without generating any h
 
 ### Moulding/Casing:   
 #### 3D designed  Outer Case  for iBELL:  ####    
-Free Cad was used to design the  3D  outer   Case for  iBell.    
-iBELL 3d designed casing
+Free Cad was used to design the  3D  outer   Case for  iBell.      
+
+3D design Outer casing for iBELL
 ![iBELL casing 3d-design ](/images/ibell-casing-3ddesign.png)   
+iBELL 3d printed  outer moulding   
+
+![iBELL Casing ](/images/iBELL-casing.jpg)   
+
+![iBELL Casing ](/images/iBELL-casing.jpg)  
 
 
 #### 3D Printing for  iBELL  Outer Case:  ####  
  The  3d iBELL outer  Case design was then loaded to 3D printer. After 28 minutes, we are ready with the outer Casing for iBELL.    
 
- iBELL 3d printed  outer moulding   
-
-![iBELL Casing ](/images/iBELL-casing.jpg)   
+  
  
  Now we  have packed all the  iBELL components  inside the 3D case  and  the bottom is  covered and was  tightly packed using the heating glue gun.
 
