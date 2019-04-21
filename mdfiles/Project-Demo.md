@@ -84,7 +84,8 @@ Given below is the case-1 arduino code.
 The basic model of iBELL is  checked and working fine. 
 
 ### Moulding/Casing:   
-3d designed  case, 3d printing,  heating glue gun,  Vinyl  sticker.  For more  description  on  3d   design
+### 3d designed  case:  ###     
+ 3d printing,  heating glue gun,  Vinyl  sticker.  For more  description  on  3d   design
 go  back to Fablab menu under  3D  design   
 
 iBELL 3d designed casing
