@@ -25,7 +25,7 @@ which helps us to be intelligent  even behind our eye  sight.
 
 ###Procedure/Description:
 
-iBELL  is an Intelligent BELL. It is a normal electroic BELL programed to behave intelligent role.
+iBELL  is an Intelligent BELL. It is a normal electronic BELL programed to behave intelligent role.
 Whenever anybody misuses or  tries to fool, it goes to "freezing mode"  and gets  activated after specified time.
 ie, If you press the buzzer and hold for more time,  immediately without causing nuisance to the owner.  It automatically
 goes  to "Freeze Mode".
