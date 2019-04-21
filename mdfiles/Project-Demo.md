@@ -65,7 +65,7 @@ We have arrived  at  two  circuit boards, one  is  the micro controller circuit,
 ![iBell-PCB](/images/ibell-pcb.jpg)
 
 #### PCB  board after soldering:    
-![PCB Board](/images/pcb-board-ATtiny44.png) 
+![iBELL Soldered](/images/iBell-soldered.jpg) 
 
 
 ### Coding:  
