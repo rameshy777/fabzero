@@ -81,18 +81,19 @@ Given below is the case-1 arduino code.
 
 
 ### Testing:  
-The basic model of iBELL is  checked and working fine. 
+The basic model of iBELL is  tested and is working fine without generating any heat. 
 
 ### Moulding/Casing:   
 #### 3D designed  case:  ####    
-Free Cad was used to design the  3d  outer   case for  iBell.  
+Free Cad was used to design the  3D  outer   case for  iBell.  
 
 #### 3D Printing for  iBELL  case:  ####  
- The  3d iBELL case design is loaded to 3D printing. After 28 minutes, we are ready with the outer casing for iBELL.  
+ The  3d iBELL case design was then loaded to 3D printer. After 28 minutes, we are ready with the outer casing for iBELL.  
  
- Now we  have packed all the  iBELL components  ito the 3d case  and  the bottom is  closed using the heating glue gun.  
- iBELL sticker was designed using the inscape  and through the use of Vinyl cutter, a beautiful name sticker was obtained and was properly stuck at both sides of the iBELL.  For more  description  on  3d   design
-go  back to Fablab menu under  3D  design.  
+ Now we  have packed all the  iBELL components  inside the 3D case  and  the bottom is  covered and was  tightly packed using the heating glue gun.
+
+ #### Vinyl sticker for  iBELL :  ####    
+ iBELL name sticker was designed using the inscape  and through the use of Vinyl cutter, we got a beautiful name sticker,  which  was  stuck at both sides of the iBELL.  For more  description  on  3D design and 3D printing  go  back to Fablab menu under  3D  Design,  3D Printing.  
 
 iBELL 3d designed casing
 ![iBELL casing 3d-design ](/images/ibell-casing-3ddesign.png)    
