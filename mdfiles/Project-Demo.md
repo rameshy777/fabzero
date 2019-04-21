@@ -44,8 +44,8 @@ The  Circuit design, Schematic  diagram  and cutting  is done  using the micromi
 #### PCB  board after soldering:    
 ![PCB Board](/images/pcb-board-ATtiny44.png) 
 
-#### Buzzer Circuit Design:    
-![Project Slide](/images/buzzer-circuit-diag.png)   
+#### iBELL Circuit Design:    
+![Project Slide](/images/iBell-circuit-diag.jpg)   
 #### Buzzer Schematic Diagram:     
 ![Project Slide](/images/buzzer-schematic.png) 
 #### Buzzer Circuit 3d-Design:        
