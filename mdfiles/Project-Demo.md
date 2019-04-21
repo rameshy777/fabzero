@@ -114,7 +114,7 @@ Below given is the project video. Please click to download.
 
 ### Future Enhancement:  
 iBELL has vast scope for future enhancement.   
-Intelligence can  be fed  to iBELL one by one on case basis,  so as  to  behave more  intelligently  with  added  features/functionalities.  
+Intelligence can  be fed  to iBELL in  the form of uploading program one by one on case basis,  so as  to  behave more  intelligently  with  added  features/functionalities.  
 Case  1,  if switch is pressed and held for more time, iBELL  goes to freezing  mode (inactive  mode)  and after sometime automatically turns  to active   mode.   
 Case  2,  if switch  is  pressed on and  off frequently  within the  particular  time interval, again it goes to freezing mode and turns to active mode after some  time.   
 Case  1 & 2 events happen when a  known person is trying to fool us. In this circumstance,  iBELL acts intelligently by going to  inactive  mode temporarily.       
