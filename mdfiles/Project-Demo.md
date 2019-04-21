@@ -39,13 +39,14 @@ Markdown,  Git, KiCad,  Visual Studio Code,  Freecad,  Inscape,  gimp,  Cura,  3
 
 ### PCB Design: 
 
-The  Circuit design, Schematic  diagram  and cutting  is done  using the micromiller.    
-####Buzzer Circuit Design:   
-![Project Slide](/images/buzzer-circuit-diag.png)  
-####Buzzer Schematic Diagram:     
-![Project Slide](/images/buzzer-schematic.png)
-####Buzzer Circuit 3d-Design:       
-![Project Slide](/images/buzzer-schema-3d.png)
+The  Circuit design, Schematic  diagram  and cutting  is done  using the micromiller.     
+
+#### Buzzer Circuit Design:    
+![Project Slide](/images/buzzer-circuit-diag.png)   
+#### Buzzer Schematic Diagram:     
+![Project Slide](/images/buzzer-schematic.png) 
+#### Buzzer Circuit 3d-Design:        
+![Project Slide](/images/buzzer-schema-3d.png) 
 
 ### Implementation:  
 
