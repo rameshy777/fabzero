@@ -65,7 +65,9 @@ We have arrived  at  two  circuit boards, one  is  the micro controller circuit,
 ![iBell-PCB](/images/ibell-pcb.jpg)
 
 #### PCB  board after soldering:    
-![iBELL Soldered](/images/iBell-soldered.jpg)   
+![iBELL Soldered](/images/iBell-soldered.jpg) 
+
+![MOSFET  ](/images/oscilloscope.jpg)
 
 All the circuit boards and components are interconnected and iBELL is ready.
 
@@ -77,8 +79,11 @@ AVR  program  was written as per our  requirement. Through the programmer, using
 ![iBELL AVR CODE ](/images/avr-code-last.png)
 
 
-### Testing:    
-Moulding: 3d designed  case, 3d printing,   heating glue gun,     Vinyl  sticker. 
+### Testing:  
+The basic model of iBELL is  checked and working fine. 
+
+### Moulding:   
+3d designed  case, 3d printing,   heating glue gun,     Vinyl  sticker. 
 
 ### Final Output/Result:   
 
