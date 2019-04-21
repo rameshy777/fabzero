@@ -65,8 +65,12 @@ We have arrived  at  two  circuit boards, one  is  the micro controller circuit,
 ![iBell-PCB](/images/ibell-pcb.jpg)
 
 #### PCB  board after soldering:    
-![iBELL Soldered](/images/iBell-soldered.jpg) 
+![iBELL Soldered](/images/iBell-soldered.jpg)   
 
+All the circuit boards and components are interconnected and iBELL is ready.
+
+![iBell-PCB](/images/ibell-pcb.jpg)
+![iBell-PCB](/images/ibell.jpg)
 
 ### Coding:  
 AVR  program  was written as per our  requirement. Through the programmer, using Arduino, we have compiled and successfully loaded the AVR code in to the micro controller to work intelligently as  per  our requirements.
