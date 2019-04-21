@@ -89,7 +89,7 @@ The basic model of iBELL is  checked and working fine.
 iBELL 3d designed casing
 ![iBELL 3d-design-casing ](/images/ibell-3dmoulding.jpg)  
 
-iBELL 3d printed  outer casing
+iBELL 3d printed  outer moulding
 
 ![iBELL Casing ](/images/iBELL-casing.jpg)
 
