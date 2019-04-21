@@ -69,8 +69,7 @@ We have arrived  at  two  circuit boards, one  is  the micro controller circuit,
 
 All the circuit boards and components are interconnected and iBELL is ready.
 
-![iBell-PCB](/images/ibell-pcb.jpg)
-![iBell-PCB](/images/ibell.jpg)
+![iBell](/images/iBell.jpg)
 
 ### Coding:  
 AVR  program  was written as per our  requirement. Through the programmer, using Arduino, we have compiled and successfully loaded the AVR code in to the micro controller to work intelligently as  per  our requirements.
