@@ -1,0 +1,48 @@
+void setup() 
+{
+  pinMode(9, INPUT);    // pin9 connected to INPUT Switch/Button
+  pinMode(10, OUTPUT);  // pin10 connected to OUTPUT Buzzer
+  pinMode(11, OUTPUT);  // pin11 connected to OUTPUT LED Orange
+  pinMode(12, OUTPUT);  // pin12 connected to OUTPUT LED Blue
+ }
+void freeze()
+ {
+  delay(60000);
+ }
+while(digitalRead(9)==HIGH )        // if switch/button pressed 
+ {
+    for (c_clock=0; c_clock<4; c_clock++;)
+         {
+          if(c_clock>3)
+
+            {  
+               digitalWrite(10, LOW);      // Buzzer put to no Sound
+               digitalWrite(11, LOW);      // LED Orange put to off
+               digitalWrite(12, HIGH);     // LED Blue glows
+               freeze();
+               c_clock=0;
+            }
+            
+          else
+            
+            {
+               digitalWrite(10, HIGH);    // Buzzer blows sound
+               digitalWrite(11, HIGH);    // LED Orange glows 
+
+             }
+
+       }
+
+ }
+
+if(c_clock>=3){
+  digitalWrite(11,LOW);
+  delay(60000); // 60 seconds freeze mode 
+  c_clock=0;
+}else{
+  c_clock=c_clock+1;
+  delay(1000); // 1 second clock run
+}
+}
+
+}
