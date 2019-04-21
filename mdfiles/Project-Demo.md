@@ -21,7 +21,7 @@ iBELL  is an Intelligent BELL. It is a normal electronic BELL programed to behav
 Whenever anybody misuses or  tries to fool, it goes to "freezing mode"  and gets  activated after specified time.
 ie, If you press the buzzer and hold for more time,  immediately without causing nuisance to the owner.  It automatically goes  to "Freeze Mode". Also,  if anybody repeatedly presses the buzzer  it enters to "Freeze Mode". Like this,  several cases of events  are worked out  and  programed to behave  intelligently.
 
-### Electronic Components  used:    
+### Hardware Requiremet / Electronic Components  used:    
 Resistors---500 ohm --2nos.  
 Resistors---10 ohm  --2nos.  
 LED---------2nos.. Green, Blue  
@@ -33,7 +33,8 @@ Speaker/Buzzer---------1no.
 Resistor--50ohm--2nos.  
 Mosfet----------1no.  
 
-
+### Software Requirement:  
+Markdown,  Git, KiCad,  Visual Studio Code,  Freecad,  Inscape,  gimp,  Cura,  3DWOX,  Arduino,   AVR  Code
 
 ![Project video](/images/project-video.mp4)
 #### Click [Back](/mdfiles/pcb-design.md)
