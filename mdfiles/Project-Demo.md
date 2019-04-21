@@ -41,8 +41,7 @@ Markdown,  Git, KiCad,  Visual Studio Code,  Freecad,  Inscape,  gimp,  Cura,  3
 
 The  Circuit design, Schematic  diagram  and cutting  is done  using the micromiller.  
 
-#### PCB  board after soldering:    
-![PCB Board](/images/pcb-board-ATtiny44.png) 
+
 
 #### iBELL Circuit Design:    
 ![Project Slide](/images/iBell-circuit-diag.jpg)   
@@ -64,6 +63,10 @@ We have arrived  at  two  circuit boards, one  is  the micro controller circuit,
 ![iBell-miller](/images/mc-header.jpeg)  
 
 ![iBell-PCB](/images/pcb-ibell.png)
+
+#### PCB  board after soldering:    
+![PCB Board](/images/pcb-board-ATtiny44.png) 
+
 
 ### Coding:  
 AVR  program  was written as per our  requirement. Through the programmer, using Arduino, we have compiled and successfully loaded the AVR code in to the micro controller to work intelligently as  per  our requirements.
