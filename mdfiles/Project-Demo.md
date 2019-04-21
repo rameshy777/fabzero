@@ -67,6 +67,7 @@ We have arrived  at  two  circuit boards, one  is  the micro controller circuit,
 #### PCB  board after soldering:    
 ![iBELL Soldered](/images/iBell-soldered.jpg) 
 
+We have used Oscilloscope to check the working condition of Speaker. 
 ![MOSFET  ](/images/oscilloscope.jpg)
 
 All the circuit boards and components are interconnected and iBELL is ready.
