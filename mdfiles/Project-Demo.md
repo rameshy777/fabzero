@@ -91,7 +91,7 @@ The basic model of iBELL is  checked and working fine.
 3d designed  case, 3d printing,   heating glue gun,     Vinyl  sticker.   
 
 iBELL 3d designed casing
-![iBELL casing 3d-design ](/images/ibell-3dcasing.png)    
+![iBELL casing 3d-design ](/images/ibell-casing-3ddesign.png)    
 
 ![iBELL 3d-design-casing ](/images/ibell-3dmoulding.jpg)  
 
