@@ -77,7 +77,11 @@ All the circuit boards and components are interconnected and iBELL is ready.
 ### Coding:  
 AVR  program  was written as per our  requirement. Through the programmer, using Arduino, we have compiled and successfully loaded the AVR code in to the micro controller to work intelligently as  per  our requirements.
 #### AVR Code:        
-![iBELL AVR CODE ](/images/avr-code-last.png)
+![iBELL AVR CODE ](/images/avr-code-last.png) 
+
+Given below is the case-1 arduino code. 
+
+![iBELL Arduino CODE Case-1 ](/images/case1-arduino-code.png)
 
 
 ### Testing:  
