@@ -31,10 +31,31 @@ Switch Button--1no.
 ISP header-----1no.  
 Speaker/Buzzer---------1no.  
 Resistor--50ohm--2nos.  
-Mosfet----------1no.  
+Mosfet----------1no. 
+
 
 ### Software Requirement:  
 Markdown,  Git, KiCad,  Visual Studio Code,  Freecad,  Inscape,  gimp,  Cura,  3DWOX,  Arduino,   AVR  Code
+
+### PCB Design: 
+
+The Schematic  diagram, Circuit design  and cutting  is done  using the micromiller.
+
+### Implementation:  
+
+Now, the components are soldered as  per the PCB  design  on  the  circuit board.
+We have arrived  at  two  circuit boards, one  is  the micro controller circuit,  
+the  other  is the  MOSFET  connected  to the  speaker. 
+
+We have also used additional 2 nos.of 50ohm  resistors connected in parallel to suppress the  generated heat.
+oscilloscope  was used to check the  working functionality of the speaker.   
+
+
+
+
+
+
+
 
 ![Project video](/images/project-video.mp4)
 #### Click [Back](/mdfiles/pcb-design.md)
