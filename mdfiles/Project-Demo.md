@@ -4,9 +4,6 @@
    
 ![Project Slide](/images/projectslide.png)
 
-
-
-
 ### Aim of the Project:  
 The main aim of the project is to develop an iBELL, intelligent BELL. 
 Intelligence means "to fool others". If A fools B, then A is intelligent than B.   It is not always true that "All intelligent are not fools".
@@ -39,8 +36,7 @@ Markdown,  Git, KiCad,  Visual Studio Code,  Freecad,  Inscape,  gimp,  Cura,  3
 
 ### PCB Design: 
 
-The  Circuit design, Schematic  diagram  and cutting  is done  using the micromiller.  
-
+The  Circuit design, Schematic  diagram,  extraction  of  trace  and  cut   files  are discussed in  detail    in the  Fablab menu under  PCB  design and cutting  is done  using the Micro miller  which is  described     in detail  in  the  Fablab menu under Micro miller.  
 
 
 #### iBELL Circuit Design:    
@@ -88,7 +84,8 @@ Given below is the case-1 arduino code.
 The basic model of iBELL is  checked and working fine. 
 
 ### Moulding/Casing:   
-3d designed  case, 3d printing,   heating glue gun,     Vinyl  sticker.   
+3d designed  case, 3d printing,  heating glue gun,  Vinyl  sticker.  For more  description  on  3d   design
+go  back to Fablab menu under  3D  design   
 
 iBELL 3d designed casing
 ![iBELL casing 3d-design ](/images/ibell-casing-3ddesign.png)    
