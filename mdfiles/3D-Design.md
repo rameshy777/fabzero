@@ -40,6 +40,8 @@ We  applied Fillet and Chamfer  properties.
 # *Output:* #
 
 ![bit holder 3D design](/images/3ddesign1.jpg)
+![bit holder 3D design](/images/bit-holder.jpeg)
+
 
 
 The file will be saved in .FCStd format. Export to .stl format.   
