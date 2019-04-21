@@ -16,7 +16,7 @@ If A fools B, then A is intelligent than B.
 It is not always true that "All intelligents are not fools".
 Also, it is  not  true  that " All fools  are not intelligents". 
 
-In  our day today life, we  always try  to paly  an intelligent  role.  
+In  our day today life, we  always try  to play  an intelligent  role.  
 But  still sometimes once a while we may be fooled by others. 
 
 We can act intelligently  on  those  which we see, or on  those that happen in front of us.  
