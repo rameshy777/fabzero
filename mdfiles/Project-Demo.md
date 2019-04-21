@@ -33,7 +33,7 @@ Capacitor--------1Micro Farad --1no.
 Switch Button--1no.  
 ISP header-----1no.  
 Speaker/Buzzer---------1no.  
-Registor--50ohm--2nos.  
+Resistor--50ohm--2nos.  
 Mosfet----------1no.  
 
 ![Project video](/images/project-video.mp4)
