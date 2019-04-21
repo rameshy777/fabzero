@@ -60,6 +60,9 @@ We have arrived  at  two  circuit boards, one  is  the micro controller circuit,
 
 ### Coding:  
 AVR  program  was written as per our  requirement. Through the programmer, using Arduino, we have compiled and successfully loaded the AVR code in to the micro controller to work intelligently as  per  our requirements.
+#### AVR Code:        
+![iBELL AVR CODE ](/images/avr-code-last.png)
+
 
 ### Testing:    
 Moulding: 3d designed  case, 3d printing,   heating glue gun,     Vinyl  sticker. 
