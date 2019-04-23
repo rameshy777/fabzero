@@ -109,7 +109,7 @@ Free Cad was used to design the  3D  outer   Case for  iBell.
 The Basic iBELL model is working fine. When we press the switch, light glows and speaker blows sound.  
 Below given is the project video. Please click to download.
 
-![click to download the Project video](/images/project-video.mp4)
+![click to download the Project video](/images/iBELL-video.mp4)
 
 
 ### Future Enhancement:  
